@@ -1,0 +1,10 @@
+Amazon Review Sentiment Analysis Summary
+- Total Reviews: 100
+- Sentiment Distribution:
+  - 1 Star(s): 2 reviews (2.0%)
+  - 2 Star(s): 6 reviews (6.0%)
+  - 3 Star(s): 8 reviews (8.0%)
+  - 4 Star(s): 36 reviews (36.0%)
+  - 5 Star(s): 48 reviews (48.0%)
+- Average Confidence Score: 0.615
+- Notes: Check for missing sentiment values; consider scaling with more data.
